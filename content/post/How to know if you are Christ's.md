@@ -1,17 +1,3 @@
-<title></title>
-
-<style type="text/css">
- @page { margin: 0.79in }
- p.sdfootnote { margin-left: 0.2in; text-indent: -0.2in; margin-bottom: 0in; font-size: 10pt }
- p { margin-bottom: 0.08in }
- a:visited { color: #800080 }
- a.western:visited { so-language: en-US }
- a.cjk:visited { so-language: zh-CN }
- a.ctl:visited { so-language: hi-IN }
- a:link { so-language: zxx }
- a.sdfootnoteanc { font-size: 57% }
- </style>
-
 # How to know if you are Christ's
 
 It is possible for one to know that they have eternal life and that they
