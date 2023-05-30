@@ -1,3 +1,7 @@
+---
+title: How to know if you are Christ's
+date: 2023-05-30
+---
 # How to know if you are Christ's
 
 It is possible for one to know that they have eternal life and that they
